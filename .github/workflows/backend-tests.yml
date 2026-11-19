@@ -17,4 +17,4 @@ jobs:
         with:
           dotnet-version: '10.0.x'
 
-      - run: dotnet test backend/RestaurantOrderCoordination.sln
+      - run: dotnet test backend/RestaurantOrderCoordination.slnx
