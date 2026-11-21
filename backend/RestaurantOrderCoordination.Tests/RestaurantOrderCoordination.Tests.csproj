@@ -20,6 +20,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RestaurantOrderCoordination.Api\RestaurantOrderCoordination.Api.csproj" />
+    <ProjectReference Include="..\RestaurantOrderCoordination.Application\RestaurantOrderCoordination.Application.csproj" />
+    <ProjectReference Include="..\RestaurantOrderCoordination.Domain\RestaurantOrderCoordination.Domain.csproj" />
+    <ProjectReference Include="..\RestaurantOrderCoordination.Infrastructure\RestaurantOrderCoordination.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

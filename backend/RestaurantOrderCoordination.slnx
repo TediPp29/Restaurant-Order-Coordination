@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="RestaurantOrderCoordination.Api/RestaurantOrderCoordination.Api.csproj" />
+  <Project Path="RestaurantOrderCoordination.Application/RestaurantOrderCoordination.Application.csproj" />
+  <Project Path="RestaurantOrderCoordination.Domain/RestaurantOrderCoordination.Domain.csproj" />
+  <Project Path="RestaurantOrderCoordination.Infrastructure/RestaurantOrderCoordination.Infrastructure.csproj" />
   <Project Path="RestaurantOrderCoordination.Tests/RestaurantOrderCoordination.Tests.csproj" />
 </Solution>
