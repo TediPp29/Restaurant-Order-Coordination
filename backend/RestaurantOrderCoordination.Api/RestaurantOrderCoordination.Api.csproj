@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.14" />
+    <ProjectReference Include="..\RestaurantOrderCoordination.Application\RestaurantOrderCoordination.Application.csproj" />
+    <ProjectReference Include="..\RestaurantOrderCoordination.Infrastructure\RestaurantOrderCoordination.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

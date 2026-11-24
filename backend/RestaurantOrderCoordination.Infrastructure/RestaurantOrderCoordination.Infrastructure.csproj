@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantOrderCoordination.Application\RestaurantOrderCoordination.Application.csproj" />
+  </ItemGroup>
+
+
 </Project>
